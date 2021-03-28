@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Zelda BOTW is My Fav Game",
+      "body": "Zelda BOTW is My Fav Game",
+      "author": "yohsi",
+      "id": 4
+    },
+    {
+      "title": "Testing out programmatic redirection",
+      "body": "Testing out programmatic redirection...",
+      "author": "mario",
+      "id": 5
+    },
+    {
+      "title": "React Is Fun!",
+      "body": "React is very fun to use",
+      "author": "mario",
+      "id": 6
+    },
+    {
+      "title": "test",
+      "body": "test",
+      "author": "mario",
+      "id": 7
+    },
+    {
+      "title": "my love for Lubo ",
+      "body": "I love him unconditionally. I would love him even if he killed my parents. ",
+      "author": "yohsi",
+      "id": 8
+    }
+  ]
+}
